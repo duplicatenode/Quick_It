@@ -167,7 +167,7 @@ import popcorn from './Popcorn.webp';
 import powdered_spices from './Powdered Spices.webp';
 import pre_and_post_workout from './Pre & Post Workout.webp';
 import precious_coins_and_jewellery from './Precious Coins & Jewellery.webp';
-import proten_and_sports_supplements from './Proten & Sports Supplements.webp';
+import proten_and_sports_supplements from './Proten & Sports supplements.webp';
 import pure_juices from './Pure Juices.webp';
 import rajma_chhole_and_others from './Rajma, Chhole & Others.webp';
 import react from './react.svg';
