@@ -179,7 +179,7 @@ import salt_sugar_and_jaggery from './Salt, Sugar & Jaggery.webp';
 import sauces_and_spreads from './Sauces & Spreads.png';
 import sausage_salami_and_ham from './Sausage, Salami & Ham.webp';
 import search from './search.png';
-import shampoo_and_conditioner from './Shampoo & Conditioner.webp';
+import shampoo from "./shampoo-conditioner.webp";
 import shoe_care from './Shoe Care.webp';
 import shower_gels_and_scrubs from './Shower Gels & Scrubs.webp';
 import skin_and_hair_care from './Skin & Hair Care.webp';
